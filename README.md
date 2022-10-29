@@ -6,9 +6,9 @@ I'm just starting out my web development journey and currently studying at <a hr
 <hr>
 <h3> Skills in development:</h3> <br>
 
-- 👨‍💻 JavaScript, Git, Ruby, Rails OWASP
+- 👨‍💻 JavaScript, EJS, Git, Ruby, Rails
 - ⚙️ React, Express, Ruby on Rails, Node.js, jQuery
-- 👁️ Bootstrap, CSS, Babel, Webpack
+- 👁️ Bootstrap, CSS\SASS, Babel, Webpack
 - 💽 PostgreSQL, MongoDB
 
 <hr>

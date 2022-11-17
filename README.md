@@ -1,7 +1,7 @@
 
 ### Hi, there people!👋
 <hr>
-My name is Kayden, I'm a 29-year-old web developer from Ukraine. <br><br>
+My name is Kayden, I'm a full stack web developer from Ukraine. <br><br>
 I'm just starting out my web development journey and currently studying at <a href="https://www.lighthouselabs.ca/en/web-development-bootcamp">Light House Labs.</a> <br>
 <hr>
 <h3> Skills in development:</h3> <br>

@@ -10,6 +10,7 @@ I'm just starting out my web development journey and currently studying at <a hr
 - ⚙️ React, Express, Ruby on Rails, Node.js, jQuery
 - 👁️ Bootstrap, CSS\SASS, Babel, Webpack
 - 💽 PostgreSQL, MongoDB
+- 🧪 Cypress, Jest, Storybook, Mocha and Chai, RSpec
 
 <hr>
 <h3>Contact Details</h3>

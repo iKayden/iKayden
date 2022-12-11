@@ -13,7 +13,7 @@ I am passionate about web development and strive to get better every day. I am f
 - 🧪 Cypress, Jest, Storybook, Mocha and Chai, RSpec
 
 <hr>
-Contact me if you have any questions on wish to collaborate!
+Contact me if you have any questions or wish to collaborate!
 <h3>Contact Details</h3>
 <a href="mailto:kharchenkokyrylo@gmail.com">:email: My Email</a><br>
 <a href="https://www.instagram.com/kaydenukr/">:camera: My Instagram</a><br>

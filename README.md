@@ -16,5 +16,5 @@ I am passionate about web development and strive to get better every day. I am f
 Contact me if you have any questions on wish to collaborate!
 <h3>Contact Details</h3>
 <a href="mailto:kharchenkokyrylo@gmail.com">:email: My Email</a><br>
-<a href="http://https://www.instagram.com/kaydenukr/">:camera: My Instagram</a><br>
+<a href="https://www.instagram.com/kaydenukr/">:camera: My Instagram</a><br>
 <a href="https://www.linkedin.com/in/kyrylo-kharchenko/">:briefcase: My LinkedIn</a>

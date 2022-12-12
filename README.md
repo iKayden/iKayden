@@ -2,7 +2,7 @@
 <hr>
 My name is Kayden, I'm a from Ukraine, currently living in beautiful British Columbia, Vancouver, Canada. <br><br>
 
-!["banner"](https://github.com/iKayden/iKayden/blob/main/linkedIn-banner(var1).png?raw=true)
+!["banner"](https://github.com/iKayden/iKayden/blob/main/linkedIn-banner(var2).png?raw=true)
 
 I'm a graduate of the <a href="https://www.lighthouselabs.ca/en/web-development-bootcamp">Light House Labs.</a> <br>
 <hr>

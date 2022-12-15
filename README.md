@@ -7,7 +7,7 @@ My name is Kayden, I'm a from Ukraine, currently living in beautiful British Col
 I'm a graduate of the <a href="https://www.lighthouselabs.ca/en/web-development-bootcamp">Light House Labs.</a> <br>
 <hr>
 <h3> Skills in development:</h3> <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css, react, git, nodejs, postgres, mongodb, rails,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jquery,git,nodejs,express,postgres,mongodb,rails,ruby,jest&perline=5)](https://skillicons.dev)
 
 - 👨‍💻 JavaScript, Git, Ruby
 - ⚙️ React, Express, Ruby on Rails, Node.js, jQuery, Ajax

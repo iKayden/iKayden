@@ -1,13 +1,20 @@
 ### Hello there, dear people!👋
+
 <hr>
 My name is Kayden, I'm a from Ukraine, currently living in beautiful British Columbia, Vancouver, Canada. <br><br>
 
-!["banner"](https://github.com/iKayden/iKayden/blob/main/linkedIn-banner(var2).png?raw=true)
+!["banner"](<https://github.com/iKayden/iKayden/blob/main/linkedIn-banner(var2).png?raw=true>)
 
 I'm a graduate of the <a href="https://www.lighthouselabs.ca/en/web-development-bootcamp">Light House Labs.</a> <br>
+
 <hr>
 <h3> Skills in development:</h3> <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jquery,git,nodejs,express,postgres,mongodb,rails,ruby,jest&perline=5)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,git,nodejs,express,postgres,mongodb,rails,ruby&perline=6" />
+  </a>
+</p>
 
 - 👨‍💻 JavaScript, Git, Ruby
 - ⚙️ React, Express, Ruby on Rails, Node.js, jQuery, Ajax

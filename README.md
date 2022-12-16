@@ -9,13 +9,11 @@ I'm a graduate of the <a href="https://www.lighthouselabs.ca/en/web-development-
 
 <hr>
 <h3> Skills in development:</h3> <br>
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,git,nodejs,express,postgres,mongodb,rails,ruby&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,mongodb,rails,ruby,jquery,git" />
   </a>
 </p>
-
 
 - 👨‍💻 JavaScript, Git, Ruby
 - ⚙️ React, Express, Ruby on Rails, Node.js, jQuery, Ajax
@@ -25,7 +23,7 @@ I'm a graduate of the <a href="https://www.lighthouselabs.ca/en/web-development-
 
 <hr>
 Contact me if you have any questions or wish to collaborate!
-<h3>Contact Details</h3>
+<h3>Contact Details: </h3>
+
 <a href="mailto:kharchenkokyrylo@gmail.com">:email: My Email</a><br>
-<a href="https://www.instagram.com/kaydenukr/">:camera: My Instagram</a><br>
 <a href="https://www.linkedin.com/in/kyrylo-kharchenko/">:briefcase: My LinkedIn</a>

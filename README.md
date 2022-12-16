@@ -10,11 +10,12 @@ I'm a graduate of the <a href="https://www.lighthouselabs.ca/en/web-development-
 <hr>
 <h3> Skills in development:</h3> <br>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,git,nodejs,express,postgres,mongodb,rails,ruby&perline=6" />
   </a>
 </p>
+
 
 - 👨‍💻 JavaScript, Git, Ruby
 - ⚙️ React, Express, Ruby on Rails, Node.js, jQuery, Ajax

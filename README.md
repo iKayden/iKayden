@@ -1,5 +1,3 @@
-### Hello there, dear people!👋
-
 <hr>
 My name is Kayden, I'm from Ukraine, currently living in beautiful British Columbia, Vancouver, Canada. <br><br>
 
@@ -11,7 +9,7 @@ I'm a graduate of the <a href="https://www.lighthouselabs.ca/en/web-development-
 <h3> Skills in development:</h3> <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,mongodb,rails,ruby,jquery,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,vue,nodejs,express,postgres,mongodb,rails,ruby,jquery,git" />
   </a>
 </p>
 

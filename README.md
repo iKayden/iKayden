@@ -14,8 +14,8 @@ I'm a graduate of the <a href="https://www.lighthouselabs.ca/en/web-development-
 </p>
 
 - 👨‍💻 JavaScript, Git, Ruby
-- ⚙️ React, Express, Ruby on Rails, Node.js, jQuery, Ajax
-- 👁️ Bootstrap, CSS\SASS, Babel, Webpack
+- ⚙️ React, Vue, Express, Ruby on Rails, Node.js, jQuery, Ajax
+- 👁️ Bootstrap, CSS\SASS, Tailwind, Babel, Webpack
 - 💽 PostgreSQL, MongoDB
 - 🧪 Cypress, Jest, Storybook, Mocha and Chai, RSpec
 
